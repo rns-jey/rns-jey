@@ -8,3 +8,8 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=rns-jey&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<h3>💻 GitHub Profile Stats</h3>
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=rns-jey&theme=dark&show_icons=true)
