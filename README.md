@@ -16,6 +16,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rns-jey&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
 
+[![JM's GitHub stats](https://github-stats-extended.vercel.app/api?username=rns-jey)](https://github.com/stats-organization/github-stats-extended)
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 [![JM's github activity graph](https://github-readme-activity-graph-zeta-swart.vercel.app/graph?username=rns-jey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
